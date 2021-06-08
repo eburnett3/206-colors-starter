@@ -65,14 +65,17 @@ footer {
 
   #column-1 {
     background-color: #00FFFF;
+    width: 50%;
   }
 
   #column-2 {
     background-color: #006400;
+    width: 100%;
   }
 
   #column-3 {
     background-color: #FF8C00;
+    width: 50%;
   }
 
   footer {
@@ -90,14 +93,17 @@ footer {
 
   #column-1 {
     background-color: #FF1493;
+    width: 33.3%
   }
 
   #column-2 {
     background-color: #FF00FF;
+    width: 33.3%;
   }
 
   #column-3 {
     background-color: #FF69B4;
+    width: 33.3%;
   }
 
   footer {
